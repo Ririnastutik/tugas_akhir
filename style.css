@@ -1,0 +1,10 @@
+body {
+    background-image: url(backrground\ 4.jpeg);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-position: left;
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-position: center;
+    font-style: inherit;
+     }
